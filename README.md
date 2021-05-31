@@ -1,7 +1,7 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="https://static.wixstatic.com/media/c2f1a7_4ec58e1a66184d95ba1cea9207f5da7e~mv2.png">
+    <img alt="Logo" title="#logo" width="300px" src="https://res.cloudinary.com/dz5ppacuo/image/upload/v1466341001/csharp-min_buiizq.png">
     <br><br>
-    <b>:hammer: Refatoração</b>  
+    <b>:hammer: Refatoração GildedRose</b>  
     <br>
 </h3>
 
